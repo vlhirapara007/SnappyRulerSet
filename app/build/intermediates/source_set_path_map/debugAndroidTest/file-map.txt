@@ -1,0 +1,37 @@
+com.snappyrulerset.test.app-core-1.13.1-0 /Users/macm87/.gradle/caches/transforms-3/0d41e7e11582fe1ca1490b5352ebd70f/transformed/core-1.13.1/res
+com.snappyrulerset.test.app-ui-util-release-1 /Users/macm87/.gradle/caches/transforms-3/0efd4625f6b3322bebd4271fc33bd484/transformed/ui-util-release/res
+com.snappyrulerset.test.app-activity-1.8.2-2 /Users/macm87/.gradle/caches/transforms-3/19107e9875e8fbe71d6b6f373ed47038/transformed/activity-1.8.2/res
+com.snappyrulerset.test.app-customview-poolingcontainer-1.0.0-3 /Users/macm87/.gradle/caches/transforms-3/24ef27881ed38c838db05d87674abb03/transformed/customview-poolingcontainer-1.0.0/res
+com.snappyrulerset.test.app-ui-test-junit4-release-4 /Users/macm87/.gradle/caches/transforms-3/333a709c37a22a8ab27ba69db2f5a6c5/transformed/ui-test-junit4-release/res
+com.snappyrulerset.test.app-activity-compose-1.8.2-5 /Users/macm87/.gradle/caches/transforms-3/4c332117468371644ac0278e5a6b0a8d/transformed/activity-compose-1.8.2/res
+com.snappyrulerset.test.app-savedstate-ktx-1.2.1-6 /Users/macm87/.gradle/caches/transforms-3/518196eb6f48a77071871bed5215b6d6/transformed/savedstate-ktx-1.2.1/res
+com.snappyrulerset.test.app-ui-release-7 /Users/macm87/.gradle/caches/transforms-3/55cf2f277593c76fd2afdab5cfc0460b/transformed/ui-release/res
+com.snappyrulerset.test.app-lifecycle-runtime-release-8 /Users/macm87/.gradle/caches/transforms-3/5c7a7e766142f6cdd37282dfee5fac0b/transformed/lifecycle-runtime-release/res
+com.snappyrulerset.test.app-core-1.5.0-9 /Users/macm87/.gradle/caches/transforms-3/5caed4a4d953234511d7c8413d684865/transformed/core-1.5.0/res
+com.snappyrulerset.test.app-lifecycle-runtime-compose-release-10 /Users/macm87/.gradle/caches/transforms-3/629afdca4ef4504b5cc53224c83e8e4c/transformed/lifecycle-runtime-compose-release/res
+com.snappyrulerset.test.app-ui-graphics-release-11 /Users/macm87/.gradle/caches/transforms-3/65cd4f2ca2b9568fb321fd8a8b823153/transformed/ui-graphics-release/res
+com.snappyrulerset.test.app-ui-geometry-release-12 /Users/macm87/.gradle/caches/transforms-3/7052a21656abffc2d5cf8248cb2c4c91/transformed/ui-geometry-release/res
+com.snappyrulerset.test.app-startup-runtime-1.1.1-13 /Users/macm87/.gradle/caches/transforms-3/723b1d46eb9c0c255e4e6fa189af4aa5/transformed/startup-runtime-1.1.1/res
+com.snappyrulerset.test.app-lifecycle-viewmodel-ktx-2.8.3-14 /Users/macm87/.gradle/caches/transforms-3/72d2a70ce5d0d0e48acaa571e94b9bf5/transformed/lifecycle-viewmodel-ktx-2.8.3/res
+com.snappyrulerset.test.app-lifecycle-process-2.8.3-15 /Users/macm87/.gradle/caches/transforms-3/7667e80c2b49f3c9e12009a9ab6aac45/transformed/lifecycle-process-2.8.3/res
+com.snappyrulerset.test.app-ui-test-release-16 /Users/macm87/.gradle/caches/transforms-3/7bc5bf6c8e67da00d245ab86f450f816/transformed/ui-test-release/res
+com.snappyrulerset.test.app-lifecycle-viewmodel-savedstate-2.8.3-17 /Users/macm87/.gradle/caches/transforms-3/84a1c124bc5cd5e01f49bc62cb3a53f6/transformed/lifecycle-viewmodel-savedstate-2.8.3/res
+com.snappyrulerset.test.app-graphics-path-1.0.1-18 /Users/macm87/.gradle/caches/transforms-3/87847c0a03b21565f92ff7d33b02d4c7/transformed/graphics-path-1.0.1/res
+com.snappyrulerset.test.app-lifecycle-livedata-core-2.8.3-19 /Users/macm87/.gradle/caches/transforms-3/899794ed20561099651e615ed21cfbb0/transformed/lifecycle-livedata-core-2.8.3/res
+com.snappyrulerset.test.app-runtime-release-20 /Users/macm87/.gradle/caches/transforms-3/8c6b958039cd3d6faae18d07d8695c12/transformed/runtime-release/res
+com.snappyrulerset.test.app-runtime-saveable-release-21 /Users/macm87/.gradle/caches/transforms-3/a07ea2e2570f265d76ed002acafa92c1/transformed/runtime-saveable-release/res
+com.snappyrulerset.test.app-core-ktx-1.13.1-22 /Users/macm87/.gradle/caches/transforms-3/a272830bfe5cbf53ed2328e034df00ff/transformed/core-ktx-1.13.1/res
+com.snappyrulerset.test.app-profileinstaller-1.3.1-23 /Users/macm87/.gradle/caches/transforms-3/c040734abc2e17ccd30cd819e45c4bd5/transformed/profileinstaller-1.3.1/res
+com.snappyrulerset.test.app-savedstate-1.2.1-24 /Users/macm87/.gradle/caches/transforms-3/c78db8ac89fe0e011ee9db26f9113215/transformed/savedstate-1.2.1/res
+com.snappyrulerset.test.app-lifecycle-runtime-ktx-release-25 /Users/macm87/.gradle/caches/transforms-3/cfb22bfa68bc169c127b1898ddb2217d/transformed/lifecycle-runtime-ktx-release/res
+com.snappyrulerset.test.app-annotation-experimental-1.4.1-26 /Users/macm87/.gradle/caches/transforms-3/d37f9678b7edc0731f4995806723a5af/transformed/annotation-experimental-1.4.1/res
+com.snappyrulerset.test.app-emoji2-1.3.0-27 /Users/macm87/.gradle/caches/transforms-3/da621967c2426af4e4a3978bb8a442f7/transformed/emoji2-1.3.0/res
+com.snappyrulerset.test.app-ui-text-release-28 /Users/macm87/.gradle/caches/transforms-3/dcc9b3165291494b63fd8ad3cc0735aa/transformed/ui-text-release/res
+com.snappyrulerset.test.app-core-runtime-2.2.0-29 /Users/macm87/.gradle/caches/transforms-3/e3d11ba0bd06e749c97eebe460136c83/transformed/core-runtime-2.2.0/res
+com.snappyrulerset.test.app-lifecycle-viewmodel-release-30 /Users/macm87/.gradle/caches/transforms-3/f5b00ee131d57bc93dad50ea63aeaf8a/transformed/lifecycle-viewmodel-release/res
+com.snappyrulerset.test.app-activity-ktx-1.8.2-31 /Users/macm87/.gradle/caches/transforms-3/f79af917affae5eb33906577ea12e4d1/transformed/activity-ktx-1.8.2/res
+com.snappyrulerset.test.app-ui-unit-release-32 /Users/macm87/.gradle/caches/transforms-3/fafa38f5636b905796ec44cb7e843087/transformed/ui-unit-release/res
+com.snappyrulerset.test.app-androidTest-33 /Users/macm87/Downloads/Snappy Ruler Set/app/build/generated/res/resValues/androidTest/debug
+com.snappyrulerset.test.app-mergeDebugAndroidTestResources-34 /Users/macm87/Downloads/Snappy Ruler Set/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.snappyrulerset.test.app-mergeDebugAndroidTestResources-35 /Users/macm87/Downloads/Snappy Ruler Set/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.snappyrulerset.test.app-merged_res-36 /Users/macm87/Downloads/Snappy Ruler Set/app/build/intermediates/merged_res/debugAndroidTest

@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.snappyrulerset.app-mergeDebugResources-49:/values-v30/values-v30.xml",
+            "map": [
+                {
+                    "source": "/Users/macm87/.gradle/caches/transforms-3/82ed7d96561cffbab647e529b487f620/transformed/material3-release/res/values-v30/values-v30.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "72",
+                        "endOffsets": "123"
+                    }
+                }
+            ]
+        }
+    ]
+}

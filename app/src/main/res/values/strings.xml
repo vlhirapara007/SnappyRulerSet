@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Snappy Ruler Set</string>
+    <string name="ruler">Ruler</string>
+    <string name="set_square">Set Square</string>
+    <string name="protractor">Protractor</string>
+    <string name="compass">Compass</string>
+    <string name="undo">Undo</string>
+    <string name="redo">Redo</string>
+    <string name="export">Export</string>
+    <string name="snap_enabled">Snap Enabled</string>
+    <string name="snap_disabled">Snap Disabled</string>
+</resources>
