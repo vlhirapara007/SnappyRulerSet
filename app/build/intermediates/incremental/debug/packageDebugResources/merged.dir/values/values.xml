@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Snappy Ruler Set</string>
+    <string name="compass">Compass</string>
+    <string name="export">Export</string>
+    <string name="protractor">Protractor</string>
+    <string name="redo">Redo</string>
+    <string name="ruler">Ruler</string>
+    <string name="set_square">Set Square</string>
+    <string name="snap_disabled">Snap Disabled</string>
+    <string name="snap_enabled">Snap Enabled</string>
+    <string name="undo">Undo</string>
+    <style name="Theme.SnappyRulerSet" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>
